@@ -39,7 +39,13 @@ Ultra lüks, kişiye özel ve gizlilik odaklı bir marka. Hazır paket ya da fiy
 
 **Sosyal medya kararları:** Instagram, Facebook, LinkedIn, Pinterest (TikTok yok) · Yayın dili yalnızca İngilizce · Görseller yapay zekâ ve stok kaynaklardan.
 
-Kurumsal tarafta site, **Bayz Media** altyapısına dayanan prodüksiyon ve lansman deneyimini öne çıkarıyor (6 kıtada medya prodüksiyon lojistiği).
+## Bayz Media bağlantısı
+
+Astra Privé yeni bir şirket. Kardeş şirketi **Bayz Media** ise 10 yılı aşkın süredir faaliyette ve Astra Privé onun operasyonel gücü ve ağı üzerine kuruldu. Site de kurumsal tarafta "Bayz Media foundation" ifadesiyle 6 kıtada medya prodüksiyon lojistiğini öne çıkarıyor.
+
+- **Güven mesajı:** "Yeni isim, arkasında 10 yılı aşkın operasyon deneyimi."
+- **Dil kuralı:** Astra Privé'nin kendi yaşı hakkında iddiada bulunulmaz ("10 yıllık Astra Privé" denmez). "Built on", "backed by", "our sister company Bayz Media" ifadeleri kullanılır.
+- Bayz Media'nın kuruluş yılı, hizmetleri ve paylaşılabilir rakamları henüz eksik (bkz. `icerik/00-lansman/lansman-plani.md`).
 
 ## İçeriği hazır olan rotalar (sosyal medyada link verilebilir)
 
@@ -72,7 +78,7 @@ Kurumsal tarafta site, **Bayz Media** altyapısına dayanan prodüksiyon ve lans
 
 ## Sitede fark edilenler (sosyal medyadan trafik göndermeden önce)
 
-> **Durum (14 Ekim 2026):** Ekip düzeltmelerin yapıldığını bildirdi. Ancak canlı sitede 1, 2 ve 4 numaralı sorunlar hâlâ görünüyor (sayfaların son güncellenme tarihi 12 Ekim). Değişiklikler büyük ihtimalle henüz yayına alınmadı. Yayına alındıktan sonra yeniden kontrol edilecek.
+> **Durum (14 Ekim 2026, ikinci kontrol):** Yenilenen site canlıda. 1, 2 ve 4 numaralı sorunlar düzeldi. Detayı henüz hazır olmayan rota sayfalarında artık "under executive review" (inceleniyor) metni var. **Bu sayfalara sosyal medyadan link verilmemeli.** 3 ve 5 numaralı maddeler içerik kararı olduğu için açık bırakıldı.
 
 1. **16 rota sayfası boş.** Başlık yerine sayfanın URL kısa adı ("cappadocia-aero-gala"), açıklama yerine "Luxury Exclusive" yazıyor. Sorun hem TR hem EN sürümünde var. Etkilenen sayfalar: aegean-archipelago-seclusion, amalfi-architectural-gala, amazon-jungle-high-tech, barcelona-mediterranean-sails, bosphorus-aegean-mansion, cappadocia-aero-gala, dubai-future-summit-dunes, ibiza-white-party-production, icelandic-volcano-gala, las-vegas-desert-mirage, moroccan-desert-nomad, norwegian-fjord-symphony, riviera-cinema-cruise, singapore-marina-bay-summit, swiss-alps-glacier-landing, tokyo-kyoto-tech-retreat. **Bu sayfalara link verilmemeli.**
 2. **TR sitede yarım kalan çeviriler var.** Menüde "Contact", rota sayfalarında "Category / Availability / Itinerary" yazıyor. SSS bölümleri tamamen İngilizce.

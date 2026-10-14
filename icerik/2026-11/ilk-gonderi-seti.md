@@ -9,6 +9,8 @@
 
 Tüm detaylar astraprive.com'daki rota sayfalarından alındı; uydurma bir özellik ya da fiyat bilgisi yok.
 
+> **Lansman notu:** #1, #2, #3, #5 ve #7 gönderileri ile #4 ve #6'nın Instagram versiyonları, **lansman ızgarasının** parçası olarak kullanılıyor (`icerik/00-lansman/lansman-plani.md`). Aşağıdaki takvim, lansmandan sonra LinkedIn ve Pinterest için geçerli. Kasım'ın Instagram ritmi için yeni gönderiler hazırlanacak.
+>
 > İsviçre Alpleri ve İzlanda gönderileri **Aralık (Christmas / New Year)** setine taşındı → `icerik/2026-12/`.
 
 **Durum etiketleri:** `TASLAK` → `ONAYDA` → `ONAYLANDI` → `YAYINDA`
