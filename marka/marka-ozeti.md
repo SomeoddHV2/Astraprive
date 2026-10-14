@@ -41,6 +41,8 @@ Ultra lüks, kişiye özel ve gizlilik odaklı bir marka. Hazır paket ya da fiy
 
 ## Bayz Media bağlantısı
 
+> **Arka plan bilgisidir.** Bayz Media sosyal medya içeriklerinde öne çıkarılmaz ve ortak paylaşım planı yoktur. Bu bölüm, Astra Privé'nin operasyonel kökenini ve ağını anlamak için tutuluyor.
+
 Astra Privé yeni bir şirket. Kardeş şirketi **Bayz Media** ise 10 yılı aşkın süredir faaliyette ve Astra Privé onun operasyonel gücü ve ağı üzerine kuruldu. Kaynak: bayzmedia.com (14 Ekim 2026).
 
 **Ne yapıyor:** Uluslararası yayıncılar, format şirketleri ve markalar için Türkiye merkezli prodüksiyon hizmeti (service production / fixer / line production). Ayrıca reklam, etkinlik prodüksiyonu ve canlı yayın.
@@ -65,10 +67,7 @@ Astra Privé yeni bir şirket. Kardeş şirketi **Bayz Media** ise 10 yılı aş
 
 **Ağ (network) olarak anlamı:** Kapadokya, Bodrum, İstanbul, Kuşadası, Marmaris, Dalyan, Kars hattı ve Mykonos'ta lokasyon izni, ekip, ekipman ve ağırlama deneyimi. Astra Privé'nin İstanbul ve Londra telefon numaraları Bayz Media'nın iletişim sayfasında da geçiyor; ekipler ortak.
 
-**Dil kuralları:**
-- Güven mesajı: "Yeni isim, arkasında 10 yılı aşkın operasyon deneyimi."
-- Astra Privé'nin kendi yaşı hakkında iddiada bulunulmaz ("10 yıllık Astra Privé" denmez). "Built on", "backed by", "our sister company Bayz Media" ifadeleri kullanılır.
-- Yayıncı adları yalnızca metin olarak geçer, logo kullanılmaz. Kullanım izni teyit edilmeli (bkz. `icerik/00-lansman/lansman-plani.md` → teyit listesi).
+**İçerik için anlamı:** Astra Privé'nin lokasyon bilgisi, izin ve lojistik becerisi, ekip ağı ve "görünmeden çalışma" disiplini bu geçmişten geliyor. Metinlerdeki "unseen operation" ve "engineered around you" vaatleri bu gerçek deneyime dayanıyor. Astra Privé'nin kendi yaşı hakkında iddiada bulunulmaz.
 
 ## İçeriği hazır olan rotalar (sosyal medyada link verilebilir)
 

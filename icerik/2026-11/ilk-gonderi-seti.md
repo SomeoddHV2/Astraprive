@@ -196,7 +196,7 @@ Fikir: Markanın gizlilik vaadini içeriğe dönüştürmek. Müşteriyi değil,
 >
 > We bring full-scale production infrastructure to the world's most remote locations, from projection mapping on natural formations to seamless VIP guest management, turning product reveals into cinematic moments.
 >
-> Built on our Bayz Media foundation, we manage location security, equipment logistics and executive hospitality at once, so your production team can focus on the shot and your leadership on the moment.
+> We manage location security, equipment logistics and executive hospitality at once, so your production team can focus on the shot and your leadership on the moment.
 >
 > Request a private consultation for your next launch: info@astraprive.com
 >
