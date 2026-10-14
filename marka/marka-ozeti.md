@@ -35,7 +35,9 @@ Ultra lüks, kişiye özel ve gizlilik odaklı bir marka. Hazır paket ya da fiy
 | **Kitle** | Yüksek gelirli aileler ve yakın çevreleri (UHNWI) | C-level yöneticiler, yönetim kurulları, marka ve pazarlama direktörleri, ajanslar |
 | **Vaat** | Sadece size ve yakınlarınıza ait bir dünya | Güvenli, izole, yüksek performanslı bir çalışma ve ağırlama ortamı |
 | **Hizmetler** | Saray, malikane ve ada kapatma; yat; helikopter; özel şef | Yönetim kurulu zirveleri, teşvik ve ödül gezileri, ürün lansmanları, film ve kampanya prodüksiyon lojistiği |
-| **Doğal platform** | Instagram, Pinterest, (seçici) TikTok | LinkedIn, Instagram |
+| **Platform** | Instagram, Facebook, Pinterest | LinkedIn, Instagram |
+
+**Sosyal medya kararları:** Instagram, Facebook, LinkedIn, Pinterest (TikTok yok) · Yayın dili yalnızca İngilizce · Görseller yapay zekâ ve stok kaynaklardan.
 
 Kurumsal tarafta site, **Bayz Media** altyapısına dayanan prodüksiyon ve lansman deneyimini öne çıkarıyor (6 kıtada medya prodüksiyon lojistiği).
 
@@ -69,6 +71,8 @@ Kurumsal tarafta site, **Bayz Media** altyapısına dayanan prodüksiyon ve lans
 - İsviçre Alpleri Buzul İnişi · `/tr/journeys/swiss-glacier-landing`
 
 ## Sitede fark edilenler (sosyal medyadan trafik göndermeden önce)
+
+> **Durum (14 Ekim 2026):** Ekip düzeltmelerin yapıldığını bildirdi. Ancak canlı sitede 1, 2 ve 4 numaralı sorunlar hâlâ görünüyor (sayfaların son güncellenme tarihi 12 Ekim). Değişiklikler büyük ihtimalle henüz yayına alınmadı. Yayına alındıktan sonra yeniden kontrol edilecek.
 
 1. **16 rota sayfası boş.** Başlık yerine sayfanın URL kısa adı ("cappadocia-aero-gala"), açıklama yerine "Luxury Exclusive" yazıyor. Sorun hem TR hem EN sürümünde var. Etkilenen sayfalar: aegean-archipelago-seclusion, amalfi-architectural-gala, amazon-jungle-high-tech, barcelona-mediterranean-sails, bosphorus-aegean-mansion, cappadocia-aero-gala, dubai-future-summit-dunes, ibiza-white-party-production, icelandic-volcano-gala, las-vegas-desert-mirage, moroccan-desert-nomad, norwegian-fjord-symphony, riviera-cinema-cruise, singapore-marina-bay-summit, swiss-alps-glacier-landing, tokyo-kyoto-tech-retreat. **Bu sayfalara link verilmemeli.**
 2. **TR sitede yarım kalan çeviriler var.** Menüde "Contact", rota sayfalarında "Category / Availability / Itinerary" yazıyor. SSS bölümleri tamamen İngilizce.

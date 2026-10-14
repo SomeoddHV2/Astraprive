@@ -1,226 +1,248 @@
-# İlk Gönderi Seti — Kasım 2026
+# Kasım 2026 Gönderi Seti
 
-Toplam 8 gönderi ve story fikirleri. Her gönderide platform, format, görsel brief, TR + EN metin, hashtag ve bağlantı var. Tüm detaylar astraprive.com'daki rota sayfalarından alındı; uydurma bir özellik ya da fiyat bilgisi yok.
+7 gönderi ve story fikirleri. **Yayın dili İngilizce**, açıklamalar ekip için Türkçe. Her gönderide şunlar var:
+
+- **Caption:** Instagram metni. Facebook'ta aynısı kullanılır; yalnızca "Link in bio" yerine doğrudan bağlantı yazılır.
+- **AI prompt:** Görsel üretimi için. Sonuna `ses-ve-ton-rehberi.md` içindeki **ortak stil cümlesi** (`[STYLE]`) eklenir.
+- **Stok arama:** Unsplash, Pexels veya Adobe Stock için anahtar kelimeler.
+- **Pinterest:** Pin başlığı ve açıklaması.
+
+Tüm detaylar astraprive.com'daki rota sayfalarından alındı; uydurma bir özellik ya da fiyat bilgisi yok.
+
+> İsviçre Alpleri ve İzlanda gönderileri **Aralık (Christmas / New Year)** setine taşındı → `icerik/2026-12/`.
 
 **Durum etiketleri:** `TASLAK` → `ONAYDA` → `ONAYLANDI` → `YAYINDA`
 
 ---
 
-## 1 · Manifesto: "Gerçek lüks bir katalogda bulunmaz"
+## 1 · Manifesto: "True luxury is never found in a catalogue"
 
-`TASLAK` · **Instagram karusel (5 kare)** · Sütun: Felsefe · *Hesabın sabitlenmiş ilk gönderisi olarak önerilir.*
+`TASLAK` · **Instagram + Facebook karusel (5 kare)** · Sütun: Philosophy · *Instagram'da sabitlenecek ilk gönderi.*
 
 **Kareler (görsel üzeri metin):**
-1. *Gerçek lüks bir katalogda bulunmaz.* (Görsel: gece, boş bir tarihi avlu, tek bir mum.)
-2. *Destinasyonlar arasındaki haritalandırılmamış alanlarda saklıdır.* (Görsel: sisli vadi, havadan.)
-3. *Sizin ritminize göre şekillenir.* (Görsel: yat güvertesinde boş bir şezlong, altın saat.)
-4. *Gördüğünüz her şey bir başlangıçtır. Görmedikleriniz, bizim işimizdir.* (Görsel: servis eldiveni, kadeh, bulanık arka plan.)
-5. *Astra Privé · İstanbul · Londra* (Logo, koyu zemin.)
+1. *True luxury is never found in a catalogue.*
+2. *It lives in the unmapped spaces between destinations.*
+3. *It moves to the rhythm of your life.*
+4. *What you see is only the beginning. What you don't is our work.*
+5. *Astra Privé · Istanbul · London* (logo, koyu zemin)
 
-**Metin (TR):**
-> Astra Privé basit bir fikirden doğdu: Gerçek lüks bir katalogda bulunmaz.
->
-> Hazır şablonları bir kenara bırakıyoruz. Bir sarayı yalnızca aileniz için kapatıyor, bir koyu yalnızca sizin yatınıza ayırıyor, bir vadinin sabahını yalnızca sizin balonunuza bırakıyoruz.
->
-> Türkiye'de ve dünyanın en korunaklı sığınaklarında, kişiye özel yolculuklar.
->
-> Rotanızı birlikte tasarlayalım. Bağlantı profilde.
+**AI prompt (kare bazında):**
+1. `an empty historic stone courtyard at night, a single candle on a stone ledge, deep shadows, warm amber glow [STYLE]`
+2. `aerial view of a misty valley at dawn, soft fog between rock formations, no buildings visible [STYLE]`
+3. `an empty teak sun lounger on the deck of a luxury yacht at golden hour, calm sea, folded white towel [STYLE]`
+4. `close-up of a white-gloved hand placing a crystal glass on a linen table, blurred background, candlelight [STYLE]`
+5. Görsel yok: koyu lacivert veya siyah zemin, ortada logo.
 
-**Metin (EN):**
-> True luxury is never found in a catalogue.
+**Stok arama:** `empty courtyard candle night`, `misty valley aerial dawn`, `yacht deck lounger golden hour`, `white glove service table`
+
+**Caption:**
+> Astra Privé was born of a simple insight: true luxury is never found in a catalogue.
 >
-> We set templates aside — closing a palace for your family alone, keeping a bay for your yacht, leaving a valley's sunrise to your balloon.
+> We set templates aside. A palace closed for your family alone. A bay kept for your yacht. A valley's sunrise left to your balloon.
 >
 > Bespoke journeys across Türkiye and the world's most protected sanctuaries.
+>
+> Begin your journey. Link in bio.
+>
+> #AstraPrive #BespokeTravel #QuietLuxury #PrivateTravel
 
-**Hashtag:** `#AstraPrive #BespokeTravel #QuietLuxury #PrivateTravel`
+**Pinterest:** Uygun değil (marka manifestosu). Pinterest'e konmaz.
 
 ---
 
-## 2 · Eğer İsterseniz… Kapadokya
+## 2 · If You Wish… Cappadocia
 
-`TASLAK` · **Instagram tek görsel veya 4:5 Reels kapağı** · Sütun: Eğer İsterseniz…
+`TASLAK` · **Instagram + Facebook tek görsel (4:5)** · Sütun: If You Wish…
 
-**Görsel brief:** Kış sabahı, karla örtülü peri bacaları. Gökyüzünde **yalnızca tek bir balon** var (kalabalık balon karesi kullanılmaz). Sıcak ışık, mavi saat geçişi.
+**Görsel üzeri metin:** *If you wish… the sky is yours alone.*
 
-**Görsel üzeri metin:** *Eğer isterseniz… gökyüzü yalnızca sizin olur.*
+**AI prompt:**
+`a single hot air balloon floating above snow-dusted fairy chimneys and rock valleys in Cappadocia at blue hour turning to sunrise, only one balloon in the sky, soft pastel light, vast quiet landscape [STYLE]`
 
-**Metin (TR):**
-> Eğer isterseniz…
->
-> Kapadokya'da antik taşlara oyulmuş tarihi bir saray, yalnızca siz ve seçtiğiniz yakınlarınız için kapanır.
->
-> Sabahlar, yalnızca grubunuza ayrılmış bir balonla vadilerin üzerinde başlar. Akşamlar, yüzyıllık yeraltı mahzenlerinde şeflerin sizin için tasarladığı tadım menüleriyle biter.
->
-> Zamana Meydan Okuyan Kapadokya. Detaylar profildeki bağlantıda.
+**Stok arama:** `Cappadocia single balloon`, `Cappadocia snow sunrise`, `fairy chimneys winter`
+> Kapadokya tanınan bir manzara olduğu için **stok fotoğraf tercih edin**. Kalabalık balon karesi kullanılmamalı; tek balon şart.
 
-**Metin (EN):**
+**Caption:**
 > If you wish…
-> A historic palace carved into Cappadocia's ancient stone, closed for you and your chosen few. Mornings begin with a balloon reserved for your party alone; evenings end in centuries-old cellars, over tasting menus designed for you.
-
-**Hashtag:** `#AstraPrive #Cappadocia #Kapadokya #PrivateJourney`
-**Bağlantı:** astraprive.com/tr/journeys/cappadocia-timeless-palace
-
----
-
-## 3 · İzlanda Aurora Kubbeleri — Reels
-
-`TASLAK` · **Instagram Reels / TikTok, 15–20 sn, 9:16** · Sütun: Sezon Notları + Eğer İsterseniz…
-
-**Senaryo:**
-
-| Sn | Görüntü | Ekrandaki metin |
-|---|---|---|
-| 0–3 | Karanlık volkanik arazi, uzakta sıcak ışıklı tek bir cam kubbe | *Dünyanın en sessiz yemek salonu.* |
-| 3–7 | Super-jeep farları karda ilerliyor | *Volkanik bir arazinin ortasında…* |
-| 7–12 | Kubbenin içi: kurulmuş masa, şamdan, camdan dışarı bakış | *…size ait bir kubbe.* |
-| 12–17 | Gökyüzünde Kuzey Işıkları dans ediyor (time-lapse) | *Ve tavanı, Kuzey Işıkları.* |
-| 17–20 | Logo, koyu zemin | *İzlanda Aurora Kubbeleri · Astra Privé* |
-
-**Ses:** Ambient, minimal piyano veya yalnızca rüzgâr sesi. Popüler/trend müzik kullanılmaz.
-
-**Metin (TR):**
-> Kış, İzlanda'da gecelerin en uzun olduğu ve Kuzey Işıklarını görme şansının en yüksek olduğu dönem.
 >
-> Sıcak ve korunaklı bir cam kubbenin içinde, uçsuz bucaksız volkanik bir arazinin ortasında, gökyüzünün renklerini izlerken akşam yemeğiniz servis edilir.
+> A historic palace carved into Cappadocia's ancient stone, closed for you and your chosen few.
+>
+> Mornings begin with a balloon reserved for your party alone, drifting over surreal valleys. Evenings end in centuries-old underground cellars, over tasting menus designed for you.
+>
+> A history rewritten, for you alone.
+>
+> Begin your journey. Link in bio.
+>
+> #AstraPrive #Cappadocia #PrivateJourney #QuietLuxury
 
-**Metin (EN):**
-> In winter, Iceland's long nights belong to the Northern Lights. Dinner is served inside your private geodesic dome — warm, sheltered, and surrounded by silent volcanic land.
+**Facebook bağlantısı:** astraprive.com/en/journeys/cappadocia-timeless-palace
 
-**Hashtag:** `#AstraPrive #NorthernLights #Iceland #AuroraBorealis`
-**Bağlantı:** astraprive.com/tr/journeys/icelandic-aurora-domes
+**Pinterest:**
+- *Başlık:* Private Palace & Balloon Flight in Cappadocia
+- *Açıklama:* A historic Cappadocia palace closed for your family, a private hot air balloon at sunrise and tasting menus in ancient cellars. Bespoke journey by Astra Privé.
+- *Pano:* If You Wish… — Bespoke Journeys
 
 ---
 
-## 4 · LinkedIn: Yönetim kurulu toplantınız neden bir otel salonunda?
+## 3 · If You Wish… Maldives
 
-`TASLAK` · **LinkedIn tek görsel** · Sütun: Kurumsal & MICE · *Önce EN, ardından TR*
+`TASLAK` · **Instagram + Facebook tek görsel veya 3 kareli karusel** · Sütun: If You Wish… + Season Notes
 
-**Görsel brief:** Kyoto'da tarihi bir tapınak avlusu, minimalist ahşap masa, boş sandalyeler, sabah ışığı. İnsan yok.
+**Görsel üzeri metin:** *If you wish… the ocean sets you a table.*
 
-**Metin (EN):**
+**AI prompt:**
+`aerial drone view of a small pure white sandbank in the middle of turquoise Indian Ocean water at sunset, a single elegantly set dinner table for two with white linen and lanterns on the sand, no other people or boats [STYLE]`
+
+**Stok arama:** `Maldives sandbank aerial`, `sandbank dinner sunset`, `overwater villa aerial`
+
+**Caption:**
+> If you wish…
+>
+> When the tide retreats, a pure white sandbank rises from the Indian Ocean. At sunset, a single table is set upon it, just for you.
+>
+> Arrive by seaplane. Stay in your own overwater pavilion, with the coral reef a step away. Let time dissolve.
+>
+> The Maldives' dry season begins.
+>
+> Begin your journey. Link in bio.
+>
+> #AstraPrive #Maldives #PrivateIsland #QuietLuxury
+
+**Facebook bağlantısı:** astraprive.com/en/journeys/maldives-isolated-atoll
+
+**Pinterest:**
+- *Başlık:* Private Sandbank Dinner in the Maldives
+- *Açıklama:* An isolated Maldives atoll reserved for you: seaplane arrival, overwater pavilion and a sunset dinner on a white sandbank. Bespoke luxury travel by Astra Privé.
+- *Pano:* Winter Sanctuaries
+
+---
+
+## 4 · LinkedIn: Your boardroom deserves more than a hotel ballroom
+
+`TASLAK` · **LinkedIn tek görsel** · Sütun: Corporate & MICE
+
+**AI prompt:**
+`a minimalist wooden meeting table with empty chairs inside a historic Japanese temple hall in Kyoto, sliding paper screens open to a quiet moss garden, soft morning light, serene and disciplined atmosphere [STYLE] --ar 1.91:1`
+
+**Stok arama:** `Kyoto temple interior tatami`, `Japanese temple garden morning`, `minimalist boardroom japanese`
+
+**Caption:**
 > Your most consequential decisions deserve more than a hotel ballroom.
 >
-> For board meetings where focus and discretion are non-negotiable, we secure an entire historic temple complex in Kyoto — pairing centuries of architectural prestige with discreet, modern corporate infrastructure.
+> For board meetings where focus and discretion are non-negotiable, we secure an entire historic temple complex in Kyoto, pairing centuries of architectural prestige with discreet, modern corporate infrastructure.
 >
-> Day 1 — Secure rail transfer & arrival
+> Day 1 — Secure rail transfer and arrival
 > Day 2 — Board session in complete seclusion
 > Day 3 — Minimalist corporate dinner
 >
 > No distractions. No audience. Just the room your decisions require.
 >
-> Private consultation: info@astraprive.com
-
-**Metin (TR):**
-> En kritik kararlarınız bir otel salonundan fazlasını hak ediyor.
+> Request a private consultation: info@astraprive.com
 >
-> Odak ve gizliliğin pazarlık konusu olmadığı yönetim kurulu toplantıları için Kyoto'da tarihi bir tapınak kompleksini tamamen sizin kullanımınıza ayırıyoruz.
+> #ExecutiveRetreat #BoardMeeting #MICE
 
-**Hashtag:** `#ExecutiveRetreat #BoardMeeting #MICE`
 **Bağlantı:** astraprive.com/en/journeys/kyoto-heritage-sanctuary
 
 ---
 
-## 5 · Görünmez Operasyon: "Gördükleriniz ve görmedikleriniz"
+## 5 · The Unseen Operation: "What you see, and what you don't"
 
-`TASLAK` · **Instagram karusel (6 kare)** · Sütun: Görünmez Operasyon
+`TASLAK` · **Instagram + Facebook karusel (6 kare)** · Sütun: The Unseen Operation
 
 Fikir: Markanın gizlilik vaadini içeriğe dönüştürmek. Müşteriyi değil, işin arkasındaki özeni gösterir.
 
 **Kareler:**
-1. *Bir akşam yemeği. Gördüğünüz kadarıyla.* (Gün batımında kurulmuş, kusursuz bir masa.)
-2. *Gördüğünüz: Bir masa.* / *Görmediğiniz: O masanın kurulacağı kum tepesinin gelgit saatleri.*
-3. *Gördüğünüz: Bir yat.* / *Görmediğiniz: Liman izinleri, yanaşma lojistiği, rotanın havaya göre yeniden çizilmesi.*
-4. *Gördüğünüz: Bir şef.* / *Görmediğiniz: En uzak noktaya kadar kesintisiz soğuk zincir.*
-5. *Gördüğünüz: Sessizlik.* / *Görmediğiniz: O sessizliği koruyan gizlilik sözleşmeleri.*
-6. *Görünmez ekibimiz, görünür olmamak için çalışır. Astra Privé.*
+1. *A dinner. As far as you can see.*
+2. *What you see: a table.* / *What you don't: the tide charts for the sandbank it stands on.*
+3. *What you see: a yacht.* / *What you don't: the clearances, the docking logistics, the route redrawn around the weather.*
+4. *What you see: a chef.* / *What you don't: an unbroken cold chain to the edge of the map.*
+5. *What you see: silence.* / *What you don't: the NDAs that protect it.*
+6. *Our team works so that you never see them. Astra Privé.*
 
-**Metin (TR):**
-> Bir Astra Privé yolculuğunun en iyi kısmı, hiç fark etmediğiniz kısmıdır.
+**AI prompt (kare bazında):**
+1. `a perfectly set dinner table on a beach at sunset, white linen, candles in glass lanterns, nobody around [STYLE]`
+2. `top-down view of a nautical tide chart with a brass compass and a fountain pen on a wooden desk [STYLE]`
+3. `close-up of mooring ropes and polished chrome on a luxury yacht at a quiet dock, early morning [STYLE]`
+4. `a chef's hands plating a refined dish in a field kitchen tent, warm light, face not visible [STYLE]`
+5. `a wax-sealed envelope on dark leather, single beam of light [STYLE]`
+6. Görsel yok: koyu zemin, logo.
+
+**Stok arama:** `beach dinner table sunset`, `nautical chart compass desk`, `yacht mooring rope detail`, `chef plating hands`, `wax seal envelope`
+
+**Caption:**
+> The finest part of an Astra Privé journey is the part you never notice.
 >
-> Yolculuk boyunca yanınızda ya da yakınınızda bir konsiyerj direktörü bulunur. Uçuş rotalarını, rezervasyonları ve lojistiği dakikalar içinde yeniden düzenler. Siz yalnızca anı yaşarsınız.
+> A dedicated concierge director stays close by, ready to re-route flights, dining and logistics within minutes. You simply live the moment.
+>
+> #AstraPrive #BehindTheScenes #LuxuryConcierge #BespokeTravel
 
-**Metin (EN):**
-> The best part of an Astra Privé journey is the part you never notice. A dedicated concierge director stays close by, ready to re-route flights, dining and logistics within minutes. You simply live the moment.
-
-**Hashtag:** `#AstraPrive #BehindTheScenes #LuxuryConcierge #BespokeTravel`
+**Pinterest:** 2. ve 4. kareler "The Art of the Table" panosuna tek görsel olarak konabilir.
 
 ---
 
-## 6 · Eğer İsterseniz… Maldivler
+## 6 · LinkedIn: Some launches deserve a landscape
 
-`TASLAK` · **Instagram tek görsel veya 3 kareli karusel** · Sütun: Eğer İsterseniz… + Sezon Notları
+`TASLAK` · **LinkedIn görsel veya kısa video** · Sütun: Corporate & MICE
 
-**Görsel brief:** Havadan çekim: turkuaz su ortasında bembeyaz bir kum tepesi ve üzerinde **tek bir masa**. Gün batımı.
+**AI prompt:**
+`night scene, abstract light projection mapped onto a towering natural red rock canyon wall, a small group of silhouetted guests watching from a distance, dramatic and cinematic, no brand logos [STYLE] --ar 1.91:1`
 
-**Görsel üzeri metin:** *Eğer isterseniz… okyanus size bir masa açar.*
+**Stok arama:** `projection mapping rock`, `canyon night event`, `outdoor product launch night`
 
-**Metin (TR):**
-> Eğer isterseniz…
->
-> Sular çekildiğinde Hint Okyanusu'nun ortasında bembeyaz bir kum tepesi belirir. Gün batımında orada kurulan masa yalnızca sizin içindir.
->
-> Maldivler'de kuru sezon başlıyor. Deniz uçağıyla varış, su üstündeki özel pavilyonunuz, mercan resiflerine doğrudan erişim.
->
-> Maldivler İzole Atolü. Detaylar profilde.
-
-**Metin (EN):**
-> If you wish…
-> When the tide retreats, a pure white sandbank rises from the Indian Ocean — and at sunset, a single table is set upon it, just for you.
-
-**Hashtag:** `#AstraPrive #Maldives #PrivateIsland #QuietLuxury`
-**Bağlantı:** astraprive.com/tr/journeys/maldives-isolated-atoll
-
----
-
-## 7 · LinkedIn: Ürün lansmanınızın sahnesi bir doğa harikası olabilir
-
-`TASLAK` · **LinkedIn görsel veya kısa video** · Sütun: Kurumsal & MICE
-
-**Görsel brief:** Gece, doğal bir kaya oluşumu veya kanyon duvarına yansıtılan projeksiyon. Silüet hâlinde küçük bir davetli grubu. Marka logosu görünmez.
-
-**Metin (EN):**
+**Caption:**
 > Some launches deserve more than a stage. They deserve a landscape.
 >
-> We bring full-scale production infrastructure to the world's most remote locations — from projection mapping on natural formations to seamless VIP guest management — turning product reveals into cinematic, historic moments.
+> We bring full-scale production infrastructure to the world's most remote locations, from projection mapping on natural formations to seamless VIP guest management, turning product reveals into cinematic moments.
 >
-> Built on our Bayz Media foundation, we handle location security, equipment logistics and executive hospitality simultaneously, so your production team can focus on the shot and your leadership on the moment.
+> Built on our Bayz Media foundation, we manage location security, equipment logistics and executive hospitality at once, so your production team can focus on the shot and your leadership on the moment.
 >
-> Request a private consultation for your next launch.
+> Request a private consultation for your next launch: info@astraprive.com
+>
+> #ProductLaunch #ExperientialMarketing #MICE
 
-**Metin (TR):**
-> Bazı lansmanlar bir sahneden fazlasını hak eder: Bir manzarayı.
->
-> Ağır prodüksiyon altyapısını dünyanın en uzak noktalarına taşıyoruz. Doğal oluşumlar üzerine projeksiyon haritalamadan seçkin konuk yönetimine kadar, ürün duyurularınızı sinematik anlara dönüştürüyoruz.
-
-**Hashtag:** `#ProductLaunch #ExperientialMarketing #MICE`
 **Bağlantı:** astraprive.com/en/journeys/cinematic-brand-unveiling
 
 ---
 
-## 8 · Eğer İsterseniz… İsviçre Alpleri
+## 7 · If You Wish… Agafay
 
-`TASLAK` · **Instagram Reels (10–15 sn) veya tek görsel** · Sütun: Eğer İsterseniz…
+`TASLAK` · **Instagram + Facebook tek görsel veya Reels (10–15 sn)** · Sütun: If You Wish…
 
-**Görsel brief:** Helikopterin karlı bir platoya inişi (dışarıdan, geniş açı). Ardından ısıtmalı cam kubbe, iki şampanya kadehi, arka planda Matterhorn.
+**Görsel üzeri metin:** *If you wish… the desert keeps your silence.*
 
-**Görsel üzeri metin:** *Eğer isterseniz… Matterhorn'a karşı bir kadeh.*
+**AI prompt:**
+`a luxurious nomad-inspired desert camp in the rocky Agafay desert near Marrakech at sunset, canvas tents with warm lantern light, a crackling fire pit with low cushioned seating, amber glow across the barren hills, Atlas mountains faint on the horizon, no people [STYLE]`
 
-**Metin (TR):**
-> Eğer isterseniz…
->
-> Yalnızca özel helikopterle ulaşılabilen, el değmemiş bir kar platosu. Karların üzerine kurulmuş ısıtmalı bir cam kubbe. Karşınızda Matterhorn, elinizde bir kadeh şampanya.
->
-> Dünyanın tepesinde nadir bulunan bir dinginlik.
+**Stok arama:** `Agafay desert camp sunset`, `luxury desert camp fire`, `Morocco desert lanterns`
 
-**Metin (EN):**
+**Reels senaryosu (isteğe bağlı):**
+
+| Sn | Görüntü | Ekrandaki metin |
+|---|---|---|
+| 0–4 | Altın rengi tepeler, geniş açı | *Trade the noise of the city…* |
+| 4–9 | Fenerlerin yandığı çadırlar, alacakaranlık | *…for the golden silence of Agafay.* |
+| 9–13 | Ateş, yakın çekim, kıvılcımlar | *If you wish.* |
+| 13–15 | Logo | *Astra Privé* |
+
+**Caption:**
 > If you wish…
-> A pristine snow plateau, reachable only by private helicopter. A heated glass dome set on the snow. The Matterhorn before you, champagne in hand.
+>
+> Trade the noise of the city for the vast, golden silence of the Agafay desert.
+>
+> A spacious, quiet camp inspired by nomadic heritage, with every modern comfort. As the sun sets, the land is washed in amber light. You spend the evening by a crackling fire, listening to the desert wind.
+>
+> Begin your journey. Link in bio.
+>
+> #AstraPrive #Agafay #Morocco #DesertRetreat
 
-**Hashtag:** `#AstraPrive #SwissAlps #Matterhorn #Alps`
-**Bağlantı:** astraprive.com/tr/journeys/swiss-glacier-landing
+**Facebook bağlantısı:** astraprive.com/en/journeys/agafay-desert-retreat
 
-> **Not:** Bu rota sitede "Kurumsal & MICE" kategorisinde. Bireysel müşteriye de uygun mu, teyit edin. Uygunsa site kategorisi gözden geçirilebilir.
+**Pinterest:**
+- *Başlık:* Luxury Desert Retreat in Agafay, Morocco
+- *Açıklama:* A private nomad-inspired camp in the Agafay desert near Marrakech: amber sunsets, open fires and complete stillness. Bespoke journey by Astra Privé.
+- *Pano:* Winter Sanctuaries
+
+> **Not:** Bu rota sitede "Corporate & MICE" kategorisinde ama metni bireysel bir kaçamağı anlatıyor. Kategorisini teyit edin.
 
 ---
 
@@ -228,17 +250,17 @@ Fikir: Markanın gizlilik vaadini içeriğe dönüştürmek. Müşteriyi değil,
 
 | Tür | Örnek |
 |---|---|
-| **Anket** | "Kış mı, yaz mı? ❄︎ Aurora kubbesi / ☀︎ Ege koyu" |
-| **Soru kutusu** | "Hayalinizdeki yolculuğu tek kelimeyle anlatın." (Yanıtlar paylaşılmaz; içerik fikri olarak kullanılır.) |
-| **Sezon notu** | "Kasım: Maldivler'de kuru sezon başlıyor." |
-| **Detay** | 5 saniyelik ses ve doku videoları: dalga sesi, şömine çıtırtısı, kar sesi |
-| **Felsefe** | Tek bir cümle, koyu zemin: "Asla hazır paket değil." |
+| **Anket** | "Winter or summer? ❄︎ Desert stillness / ☀︎ Aegean bay" |
+| **Soru kutusu** | "Describe your dream journey in one word." (Yanıtlar paylaşılmaz; içerik fikri olarak kullanılır.) |
+| **Sezon notu** | "November: dry season begins in the Maldives." |
+| **Detay** | 5 saniyelik ses ve doku videoları: dalga, ateş, rüzgâr. Stok video siteleri (Pexels Video, Adobe Stock) uygun |
+| **Philosophy** | Tek cümle, koyu zemin: "Never a package." |
 
-## Kasım yayın takvimi önerisi
+## Kasım yayın takvimi
 
-| Hafta | Instagram | LinkedIn |
-|---|---|---|
-| 1 | #1 Manifesto (sabitle) · #2 Kapadokya | #4 Kyoto Yönetim Kurulu |
-| 2 | #3 İzlanda Reels · #5 Görünmez Operasyon | #7 Sinematik Lansman |
-| 3 | #6 Maldivler · #8 İsviçre Alpleri | Felsefe (#1'in LinkedIn uyarlaması) |
-| 4 | Yeni set (Dubai, Agafay, Riviera) | Kıyı Partner Zirvesi / teşvik gezisi |
+| Hafta | Instagram + Facebook | LinkedIn | Pinterest |
+|---|---|---|---|
+| 1 (2–8 Kasım) | #1 Manifesto (sabitle) · #2 Cappadocia | #4 Kyoto Boardroom | #2, #3 pinleri |
+| 2 (9–15 Kasım) | #5 Unseen Operation · #3 Maldives | #6 Landscape Launch | #7 pini + Aralık pinleri (İsviçre, İzlanda) |
+| 3 (16–22 Kasım) | #7 Agafay | Philosophy (#1'in LinkedIn uyarlaması) | |
+| 4 (23–30 Kasım) | Aralık setine geçiş: "The Season of Stillness" (bkz. `2026-12`) | Aralık LinkedIn #1 | |
