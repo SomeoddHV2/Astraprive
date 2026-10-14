@@ -9,6 +9,7 @@
 | 3 | **Philosophy** | Marka manifestosu, mahremiyet, "lüks nedir?" | IG karusel, FB, LinkedIn | %10 |
 | 4 | **Corporate & MICE** | Yönetim kurulu zirveleri, teşvik gezileri, lansmanlar | LinkedIn (öncelikli), IG | %20 |
 | 5 | **Season Notes** | Yer ve zaman bilgisi: "Aurora için en iyi ay", "Maldivler'de kuru sezon" gibi | IG Story, IG/FB gönderi | %10 |
+| 6 | **Heritage** | Bayz Media'nın 10 yılı: Kapadokya'dan Kars'a çekimler, ödüller, "set disiplini lüks seyahate nasıl dönüşür?" | LinkedIn, IG | %10 |
 
 ## Önerilen haftalık ritim (başlangıç)
 
