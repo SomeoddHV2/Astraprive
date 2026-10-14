@@ -4,7 +4,7 @@ Hesaplar boşken kimseyi profile davet etmeyin, reklam vermeyin. Profile ilk gel
 
 Bu plan bu üç soruyu yanıtlayan bir temel kurar, ardından hesapları duyurur.
 
-> **Eksik bilgi:** `[KÖŞELİ PARANTEZ]` içindeki yerler Bayz Media bilgileriyle doldurulmalı (bkz. en alttaki soru listesi). bayzmedia.com bu çalışma ortamından açılamadığı için bu bilgiler tahminle yazılmadı.
+> Bayz Media bilgileri bayzmedia.com'dan alındı (bkz. `marka/marka-ozeti.md` → Bayz Media). Yayından önce en alttaki **teyit listesini** kontrol edin.
 
 ---
 
@@ -69,29 +69,31 @@ Instagram en yeni gönderiyi en üstte gösterir. Bu yüzden **alttan üste doğ
 
 ## Sabitlenmiş gönderi 3 · Built on a Decade
 
-`TASLAK` · **Instagram + Facebook karusel (4 kare)** · *Bayz Media ile **Instagram Collab** olarak paylaşılmalı. Böylece gönderi iki hesapta birden görünür ve Bayz'ın takipçileri Astra Privé'yi görür.*
+`TASLAK` · **Instagram + Facebook karusel (5 kare)** · *Bayz Media'nın Instagram hesabı varsa **Collab** olarak paylaşılmalı. Böylece gönderi iki hesapta birden görünür.*
 
 **Önemli dil kuralı:** Astra Privé yeni bir şirket. "10 yıllık Astra Privé" gibi bir ifade **kullanılmaz**. Doğru çerçeve: *yeni isim, arkasında 10 yılı aşkın operasyon deneyimi.*
 
 **Kareler:**
 1. *A new name. More than a decade of operations behind it.*
 2. *Astra Privé is built on the operational backbone of our sister company, Bayz Media.*
-3. *[10+] years of [film production and logistics] across [X countries]. Locations secured, crews moved, complex operations delivered on time and out of sight.*
-4. *Today, that expertise serves a single purpose: your journey.*
+3. *10+ years. 90+ productions. For the BBC, Nat Geo, HBO, Discovery and NBC.*
+4. *Cappadocia. Bodrum. Istanbul. Kars. Locations secured, crews moved, talent hosted, out of sight.*
+5. *Today, that expertise serves a single purpose: your journey.*
 
 **Görsel:**
 - Kare 1 AI prompt: `a vintage brass compass resting on an old leather-bound logbook beside a modern tablet, dark wood desk, single warm light source [STYLE]`
-- Kare 3: **Gerçek bir Bayz Media prodüksiyon fotoğrafı (set, ekipman, ekip arkadan)** burada en güçlü seçenek. Gerçek arşiv, AI'dan çok daha inandırıcı olur. Yoksa AI prompt: `a film production base camp at dawn in a remote desert, equipment cases and a camera crane silhouetted, crew seen only from behind [STYLE]`
-- Kare 2 ve 4: Koyu zemin, tipografi. Kare 2'de iki logo yan yana.
+- Kare 3 ve 4: **Gerçek Bayz Media set fotoğrafları** (Kapadokya, Bodrum ya da Doğu Ekspresi çekimlerinden; ekip arkadan, ekipman, kamera). Gerçek arşiv, AI'dan çok daha inandırıcı olur. Yoksa AI prompt: `a film crew seen from behind setting up a cinema camera on a ridge above Cappadocia valleys at dawn, equipment cases, balloons far in the distance [STYLE]`
+- Kare 2 ve 5: Koyu zemin, tipografi. Kare 2'de iki logo yan yana.
+- **Yayıncı logoları kullanılmaz.** İsimler yalnızca metin olarak geçer.
 
 **Caption:**
 > Astra Privé is a new name. The experience behind it is not.
 >
-> We were founded on the operational and network strength of our sister company, Bayz Media, which has spent more than [10] years [delivering film productions and complex logistics across X countries].
+> We were founded on the operational and network strength of our sister company, Bayz Media, which has spent more than ten years delivering over 90 productions for international broadcasters and brands, from the BBC's The Apprentice and Nat Geo to HBO, Discovery and NBC.
 >
-> Securing locations. Moving crews and equipment. Hosting talent and executives with discretion. Delivering under pressure, without being seen.
+> Filming across Cappadocia and Bodrum, along the Eastern Express to Kars, through the streets of Istanbul: securing locations, moving crews and equipment, hosting talent with discretion, delivering on time and out of sight.
 >
-> Today, that same expertise is devoted to a single purpose: your journey.
+> Today, that same expertise serves a single purpose: your journey.
 >
 > #AstraPrive #BayzMedia #BespokeTravel #MICE
 
@@ -148,7 +150,7 @@ Kapaklar: koyu lacivert zemin, ince altın veya beyaz çizgi ikon. Emoji kullan�
 **Şirket sayfası "About" metni:**
 > Astra Privé is a private travel design studio creating bespoke journeys and executive MICE operations across Türkiye and the world's most protected sanctuaries.
 >
-> Built on the operational and network strength of our sister company Bayz Media, with more than [10] years of experience in [production and complex logistics], we design secure, secluded environments for executive summits, board retreats, incentive journeys and cinematic product launches, as well as private journeys for discerning families.
+> Built on the operational and network strength of our sister company Bayz Media, which has delivered more than 90 productions over ten years for international broadcasters and brands, we design secure, secluded environments for executive summits, board retreats, incentive journeys and cinematic product launches, as well as private journeys for discerning families.
 >
 > Operational centres in Istanbul and London. TÜRSAB License No: 18451.
 
@@ -157,7 +159,7 @@ Kapaklar: koyu lacivert zemin, ince altın veya beyaz çizgi ikon. Emoji kullan�
 **Lansman gönderisi (şirket sayfası):**
 > Introducing Astra Privé.
 >
-> For more than [10] years, our sister company Bayz Media has [delivered productions and complex logistics across X countries], securing locations, moving crews and hosting executives with discretion.
+> For more than ten years, our sister company Bayz Media has delivered over 90 productions for international broadcasters and brands, including the BBC, Nat Geo, HBO, Discovery and NBC: securing locations, moving crews and equipment, and hosting talent and executives with discretion.
 >
 > Astra Privé brings that operational backbone to a new purpose: bespoke journeys and executive MICE operations, designed around confidentiality, precision and seclusion.
 >
@@ -168,18 +170,18 @@ Kapaklar: koyu lacivert zemin, ince altın veya beyaz çizgi ikon. Emoji kullan�
 > #MICE #ExecutiveTravel #CorporateEvents
 
 **Bayz Media sayfasından paylaşılacak metin:**
-> After [10+] years of [productions and operations across X countries], we're proud to introduce our sister company, Astra Privé.
+> After more than ten years and 90+ productions, we're proud to introduce our sister company, Astra Privé.
 >
 > The same discipline, network and discretion that power our productions now serve executive retreats, MICE operations and bespoke journeys.
 >
 > Follow Astra Privé →
 
 **Kurucuların kişisel paylaşımı (şablon):** LinkedIn'de kişisel profiller şirket sayfalarından çok daha fazla erişim alır. Bu paylaşım lansmanın en etkili adımıdır.
-> Ten years ago, we started Bayz Media. [Kısa kişisel anı: ilk prodüksiyon, zor bir operasyon, vb.]
+> Ten years ago, we started Bayz Media. Since then we've filmed for the BBC in Cappadocia and Bodrum, followed the Eastern Express to Kars, and hosted crews, talent and executives from all over the world. [Kısa kişisel anı: ilk prodüksiyon, en zor operasyon vb.]
 >
-> Over the years, we kept hearing the same question from the executives and talent we hosted: "Can you plan our private trips too?"
+> [Gerçekten yaşandıysa: Over the years, we kept hearing the same question from the people we hosted: "Can you plan our private trips too?"]
 >
-> Today, we're answering it. Meet Astra Privé, a private travel design studio for bespoke journeys and executive MICE operations, built on everything we've learned.
+> Today, we're taking that experience somewhere new. Meet Astra Privé, a private travel design studio for bespoke journeys and executive MICE operations, built on everything we've learned.
 >
 > [Link]
 
@@ -201,11 +203,36 @@ Her pin 2:3 dikey formatta ve ilgili rota sayfasına bağlı. Başlık ve açık
 
 ---
 
-## Bayz Media hakkında bana gereken bilgiler
+## LinkedIn: lansman sonrası güven gönderileri
 
-1. **Kuruluş yılı.** "10+ years" ifadesinin tam karşılığı nedir?
-2. **Bayz Media tam olarak ne yapıyor?** Film ve dizi prodüksiyon hizmeti, line producer, reklam prodüksiyonu, etkinlik gibi.
-3. **Paylaşılabilecek rakamlar.** Kaç ülke, kaç prodüksiyon, kaç kıta? Site "6 kıtada medya prodüksiyon lojistiği" diyor; bu ifadeyi destekleyen veriler var mı?
-4. **Adı verilebilecek işler veya müşteriler.** Gizlilik sözleşmesi varsa "uluslararası bir yayın platformu için dizi prodüksiyonu" gibi genel bir anlatım da işe yarar.
-5. **Bayz Media'nın sosyal medya hesapları ve takipçi sayıları.** Lansmanda bu kitleden yararlanacağız.
-6. **Arşiv görselleri.** Set, ekipman ya da ekibin arkadan çekilmiş fotoğrafları "Heritage" içeriği için çok değerli. Yüz göstermeyen kareler yeterli.
+Lansman haftasından sonraki 2–3 hafta içinde LinkedIn'de Bayz Media mirasını somutlaştıran iki gönderi:
+
+**A · What television taught us about luxury travel**
+> A television production and a luxury journey have more in common than you might think.
+>
+> Both run on permits secured weeks in advance, contingency plans for weather, crews that move without being noticed, and talent who expect absolute discretion.
+>
+> For more than ten years, our sister company Bayz Media has done exactly that for international broadcasters, from 42 days of non-stop live broadcasting in Dalyan to a BBC episode filmed simultaneously in Cappadocia and Bodrum.
+>
+> At Astra Privé, we apply the same discipline to executive retreats and private journeys. The difference: this time, nobody is filming.
+>
+> #MICE #ExecutiveTravel #Operations
+
+**B · An award-winning journey to Kars**
+> In February 2025, our sister company Bayz Media followed the Turkish Eastern Express on its 1,360 km winter journey from Ankara to Kars for "The Rail Life Story: Türkiye", produced with Singapore's Mediacorp and Taiwan's PTS.
+>
+> The documentary went on to win the Silver Award in the "Documentary: Travel & Places" category at the World Media Festivals in Hamburg.
+>
+> Knowing a route well enough to film it is one thing. Knowing it well enough to make it effortless for our guests is what we do at Astra Privé.
+>
+> #TravelDocumentary #Türkiye #LuxuryTravel
+
+---
+
+## Yayından önce teyit listesi
+
+1. **Yayıncı isimleri:** BBC, Nat Geo, HBO, Discovery, NBC ve yapımcı şirketlerin adlarını Astra Privé hesaplarında kullanmak sözleşmelere uygun mu? Bayz Media kendi sitesinde bu isimleri açıkça kullanıyor; yine de ayrı bir şirketin (Astra Privé) bunları pazarlamada anması için teyit alın. **Logolar kullanılmaz.**
+2. **Rakamlar:** "10+ years" ve "90+ productions" Bayz Media sitesindeki sayaçlardan alındı. Sitede "6 continents" ifadesi de var ama listelenen projeler bunu doğrulamadığı için metinlere eklenmedi.
+3. **Bayz Media'nın sosyal medya hesapları:** Sitede hiçbir hesaba bağlantı yok. Instagram ve LinkedIn hesapları varsa Collab ve "Affiliated page" adımları uygulanır; yoksa Bayz ile ilgili duyuru adımı kurucuların kişisel profilleri üzerinden yapılır.
+4. **Arşiv görselleri:** Kapadokya, Bodrum ve Doğu Ekspresi çekimlerinden yüz göstermeyen set fotoğrafları.
+5. **Kurucu hikâyesi:** LinkedIn şablonundaki köşeli parantezli yerler gerçek bir anıyla doldurulmalı.

@@ -41,11 +41,34 @@ Ultra lüks, kişiye özel ve gizlilik odaklı bir marka. Hazır paket ya da fiy
 
 ## Bayz Media bağlantısı
 
-Astra Privé yeni bir şirket. Kardeş şirketi **Bayz Media** ise 10 yılı aşkın süredir faaliyette ve Astra Privé onun operasyonel gücü ve ağı üzerine kuruldu. Site de kurumsal tarafta "Bayz Media foundation" ifadesiyle 6 kıtada medya prodüksiyon lojistiğini öne çıkarıyor.
+Astra Privé yeni bir şirket. Kardeş şirketi **Bayz Media** ise 10 yılı aşkın süredir faaliyette ve Astra Privé onun operasyonel gücü ve ağı üzerine kuruldu. Kaynak: bayzmedia.com (14 Ekim 2026).
 
-- **Güven mesajı:** "Yeni isim, arkasında 10 yılı aşkın operasyon deneyimi."
-- **Dil kuralı:** Astra Privé'nin kendi yaşı hakkında iddiada bulunulmaz ("10 yıllık Astra Privé" denmez). "Built on", "backed by", "our sister company Bayz Media" ifadeleri kullanılır.
-- Bayz Media'nın kuruluş yılı, hizmetleri ve paylaşılabilir rakamları henüz eksik (bkz. `icerik/00-lansman/lansman-plani.md`).
+**Ne yapıyor:** Uluslararası yayıncılar, format şirketleri ve markalar için Türkiye merkezli prodüksiyon hizmeti (service production / fixer / line production). Ayrıca reklam, etkinlik prodüksiyonu ve canlı yayın.
+
+**Sitedeki rakamlar:** 10+ yıl · 90+ teslim edilmiş proje · 2 ofis (Kuşadası ve Birleşik Krallık; UK şirketi Allbayz Limited) · "6 kıta" (proje listesi bunu doğrulamıyor, metinlerde kullanılmadı)
+
+**Astra Privé için en anlamlı işler:**
+
+| Proje | Yayıncı / yapımcı | Neden önemli |
+|---|---|---|
+| The Apprentice UK (2025) | BBC One / Fremantle UK | Kapadokya ve Bodrum'da eşzamanlı çekim; bölümün konusu kurumsal ağırlama. MICE için doğrudan bağlantı |
+| The Rail Life Story: Türkiye (2025) | Mediacorp (Singapur), PTS (Tayvan); Tencent Video ve iQIYI'de yayın | Doğu Ekspresi, Ankara–Kars, 1.360 km. World Media Festivals Hamburg'da **Gümüş Ödül** ("Documentary: Travel & Places") |
+| Epic Food Journeys with Mark Wiens | Nat Geo | İstanbul bölümü |
+| 1st Look – Destination Istanbul | NBC | İstanbul bölümünün tamamı |
+| Simon Calder Travel Stories | The Independent | Seyahat gazeteciliği, birkaç bölüm |
+| Fantastic Friends (2. sezon) | HBO | Sezonun tamamı |
+| Wheelers Dealers World Tour, Abandoned Engineering | Discovery | Türkiye bölümleri |
+| Public Games (2017) | VKontakte / Banijay Russia | Dalyan'da 42 gün kesintisiz canlı yayın |
+| Bachelor & Bachelorette Suomi | Warner Bros. Finland | Kuşadası, Marmaris, Mykonos |
+| Guerlain × Begüm Khan "Exceptional Piece" | Guerlain | Lüks marka için line production |
+| Fenerbahçe × PUMA forma lansmanı | PUMA | Lansman prodüksiyonu ve canlı yayın |
+
+**Ağ (network) olarak anlamı:** Kapadokya, Bodrum, İstanbul, Kuşadası, Marmaris, Dalyan, Kars hattı ve Mykonos'ta lokasyon izni, ekip, ekipman ve ağırlama deneyimi. Astra Privé'nin İstanbul ve Londra telefon numaraları Bayz Media'nın iletişim sayfasında da geçiyor; ekipler ortak.
+
+**Dil kuralları:**
+- Güven mesajı: "Yeni isim, arkasında 10 yılı aşkın operasyon deneyimi."
+- Astra Privé'nin kendi yaşı hakkında iddiada bulunulmaz ("10 yıllık Astra Privé" denmez). "Built on", "backed by", "our sister company Bayz Media" ifadeleri kullanılır.
+- Yayıncı adları yalnızca metin olarak geçer, logo kullanılmaz. Kullanım izni teyit edilmeli (bkz. `icerik/00-lansman/lansman-plani.md` → teyit listesi).
 
 ## İçeriği hazır olan rotalar (sosyal medyada link verilebilir)
 

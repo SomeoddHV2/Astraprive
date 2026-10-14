@@ -1,12 +1,12 @@
 # İçerik Sütunları ve Yayın Ritmi
 
-## Beş içerik sütunu
+## Altı içerik sütunu
 
 | # | Sütun | Ne anlatır | Platform | Oran |
 |---|---|---|---|---|
-| 1 | **If You Wish…** | Tek bir rotayı bir hayal cümlesiyle açar (sitedeki "Eğer İsterseniz…" motifinin devamı) | IG, FB, Pinterest | %35 |
+| 1 | **If You Wish…** | Tek bir rotayı bir hayal cümlesiyle açar (sitedeki "Eğer İsterseniz…" motifinin devamı) | IG, FB, Pinterest | %30 |
 | 2 | **The Unseen Operation** | Perde arkası: lojistik, hazırlık, detay. Yüz göstermeden "nasıl yapıyoruz?" | IG Reels, FB, LinkedIn | %20 |
-| 3 | **Philosophy** | Marka manifestosu, mahremiyet, "lüks nedir?" | IG karusel, FB, LinkedIn | %15 |
+| 3 | **Philosophy** | Marka manifestosu, mahremiyet, "lüks nedir?" | IG karusel, FB, LinkedIn | %10 |
 | 4 | **Corporate & MICE** | Yönetim kurulu zirveleri, teşvik gezileri, lansmanlar | LinkedIn (öncelikli), IG | %20 |
 | 5 | **Season Notes** | Yer ve zaman bilgisi: "Aurora için en iyi ay", "Maldivler'de kuru sezon" gibi | IG Story, IG/FB gönderi | %10 |
 
